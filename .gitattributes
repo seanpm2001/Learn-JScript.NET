@@ -32,6 +32,11 @@
 *.css linguist-detectable=true
 *.css linguist-documentation=false
 *.css linguist-language=CSS
+# JScript.NET source file
+*.js linguist-detectable=true
+*.js linguist-documentation=false
+*.js linguist-language=JavaScript
+# *.js linguist-language=JScript.NET # Not recognizable by GitHub yet
 # Less stylesheet file
 *.less linguist-detectable=true
 *.less linguist-documentation=false
@@ -163,8 +168,8 @@
 *.gif linguist-language=GIF
 # End of linguist script
 
-# File info
-# File type: gitattributes file (.gitattributes)
-# File version: 4 (2022, Tuesday, June 28th at 2:32 pm PST)
-# Line count (including blank lines and compiler line): 171
+# File info.
+# File type: gitattributes file (*.gitattributes)
+# File version: 5 (2022, Monday, October 10th at 5:57 pm PST)
+# Line count (including blank lines and compiler line): 176
 # End of script
